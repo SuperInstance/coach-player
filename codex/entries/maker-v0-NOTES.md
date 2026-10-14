@@ -73,3 +73,31 @@ layer: a maker's field evidence that an LLM's game output
 without a prior design reads as a testing scene, not a game.
 Still no shading updates — two videos, two makers, both
 caption-grade.
+
+Third sample (2026-10-14): Goodgis, "Finishing My Indie Game
+After 6 Years" (WNYE69ZITB8, published 2026-06-01, 6:27) —
+the panel WORKED this time (first attempt; the video is
+auto-dubbed, panel text is the English dub track). Panel
+tally now 2 of 4. The game is Dewdrop Dynasty, a lighthearted
+Metroidvania, six years in the making. Patterns:
+A. Tune-by-feel iteration — completion criteria are sensory
+   (the world "feels alive", the game gains "soul"); multiple
+   passes plus trusted feedback over formal metrics.
+B. Tools-over-hacks architecture — rotting systems (cutscene
+   if-chains) trigger paradigm learning and a reusable
+   data-driven engine, not patching. Note the shape: each
+   cutscene beat is a small composable unit — tile-like.
+C. Honest, restrained self-marketing — no fabricated trailer
+   shots, bosses unspoiled, feedback from a tight trusted
+   circle; credibility is the asset.
+
+Bears on (provisional): maker-005/006 again, differently —
+his feedback loop is friends/family on PRESENTATION material,
+not playtesters on systems; build-00x tooling questions (the
+cutscene engine is build-the-tool-when-the-hack-rots, with a
+named trigger); maker-011 sideways — the fun bar is
+experiential ("alive"), resistant to the loop/arc framing.
+Cross-maker echo worth watching: Juniper's feel-first
+communication and Goodgis's tune-by-feel are cousins; Cody's
+feel-over-polish judging makes three feel-forward makers in
+three samples. Still no shading updates.
