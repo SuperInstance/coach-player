@@ -3,3 +3,5 @@ __pycache__/
 .transcriptapi
 .env
 *secret*
+
+codex/transcripts/
