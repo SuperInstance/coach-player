@@ -41,3 +41,35 @@ Questions this sample bears on (provisional, single video):
   here (quota pressure making procedural runs legible) was
   settled in the first minute of design talk.
 No shadings updated yet — one video, caption-grade evidence.
+
+Second sample (2026-10-14): CodyCantEatThis, "Can AI Make A
+Better Game Than Me?" (kRSB-Y3kT7g, published 2026-10-10,
+18:43) — his first upload after ~2 years away. The panel failed
+again (two attempts, spinner), so: caption fallback again.
+RUNNING METHOD TALLY: panel succeeded 1 of 3 maker-route
+videos (the Gray test); the caption fallback is the de facto
+workhorse and its entries have held up in quality.
+
+The video is a controlled experiment: a 3D platformer built
+twice, once by a new ChatGPT model, once by Cody. His verdict
+favours the human build. Patterns:
+1. Scope as experimental control — both builds kept small and
+   parallel so the comparison stays fair; he scopes to learn.
+2. Judgement by intent and feel — the only AI work praised
+   shows intent (area transitions); condemned work is
+   purposeless (dead areas, dull corridors). Ugly-but-good
+   beats polished-but-empty.
+3. Design-first, tools-second — AI welcomed for asset
+   production where he admits weakness (art, effects, sound),
+   never for design decisions; prompting itself iterated as a
+   design skill (full-context feeds after stalling).
+
+Bears on (provisional): design-007 again — his own build is
+anchored on ONE core mechanic (collectibles change the world's
+state) chosen before implementation; maker-003's neighbour —
+an AI's purposeless output is read as failed design, not
+failed execution; and directly on the Coach Player author
+layer: a maker's field evidence that an LLM's game output
+without a prior design reads as a testing scene, not a game.
+Still no shading updates — two videos, two makers, both
+caption-grade.
