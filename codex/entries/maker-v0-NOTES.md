@@ -101,3 +101,31 @@ Cross-maker echo worth watching: Juniper's feel-first
 communication and Goodgis's tune-by-feel are cousins; Cody's
 feel-over-polish judging makes three feel-forward makers in
 three samples. Still no shading updates.
+
+Fourth sample (2026-10-14): Jack Sather, "The Most Unique
+FPS You'll Play This Year — MOUSE: P.I. For Hire"
+(UhPJEY7DYn8, published 2026-04-16, 9:18) — first design-
+ANALYST sample. Panel worked (tally 3 of 5). Caveat: the
+video is sponsored (#ad, publisher PlaySide), disclosed by
+Sather up front; flagged in the entries since praise may be
+shaded — his METHOD is the evidence we want, and it is
+unaffected. His method, as a reading discipline:
+1. Find the load-bearing constraint — here, ammo scarcity;
+   every other system (rotation, movement, pacing) is read as
+   downstream of that one pressure point. This is design-007
+   demonstrated as a reading skill, i.e. what build-008 wants
+   the avatar to do while playing unfamiliar games.
+2. Judge by cadence and craft density, not feature counts —
+   reward staging over time, variety extracted from a limited
+   palette, animation effort as the visible signature of
+   intent.
+3. Evidence = his own felt response — lineage comparisons,
+   the urge to savour an animation, perceptual after-effects
+   of hours in monochrome. Subjective experience used as a
+   calibrated instrument.
+The feel-forward echo now spans all four makers AND the
+analyst lane: feel is the verdict currency across the maker
+perspective so far. If Indie Game Clinic and Code Monkey
+confirm, the wave's aggregate should propose it as a
+maker-lane law and a candidate template for the avatar's own
+game-reading.
