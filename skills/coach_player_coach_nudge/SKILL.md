@@ -25,3 +25,19 @@ Use whenever a coach gives the avatar an order mid session.
 ## Project files this skill works on
 
 - Work inside the coach-player repo, in README.md, docs/QUESTIONS-FIRST.md, docs/FRONTIER-AND-TASTE.md, the questions folder and the codex folder.
+
+## Conflict protocol when coach orders collide
+
+Distilled from DougDoug's viewer-controlled chess format, sampled 2026-10-14 and documented in the private artist dossier. Apply the ladder in order.
+
+- Ask the part of the crew that must execute the order whether it consents before running it.
+
+- When orders conflict, take the majority and name the dissenter with an apology out loud.
+
+- Defend any contested ruling by counting the voices aloud, in the open.
+
+- Apply a rule invented mid-session only from that moment forward, and let it bind the avatar as much as the coach.
+
+- Scale the threshold to irreversibility: a reversible move needs a simple majority, an irreversible one needs a supermajority.
+
+- Preview the consequence of an order before executing it, in one plain sentence the coach can veto.
