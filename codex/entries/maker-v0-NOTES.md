@@ -129,3 +129,27 @@ perspective so far. If Indie Game Clinic and Code Monkey
 confirm, the wave's aggregate should propose it as a
 maker-lane law and a candidate template for the avatar's own
 game-reading.
+
+Fifth sample (2026-10-14): Code Monkey, "Your game needs TWO
+prototypes! (here's why)" (iwDBrvKliV8, published 2026-10-05,
+8:23) — engineering-teacher lane; caption fallback (panel
+tally: 3 of 6). No game built; the subject is his validation
+pipeline. Patterns:
+1. Evidence-gated scope — serious building starts only after
+   cheap prototypes answer their questions; resources follow
+   proof, not enthusiasm.
+2. One prototype, one question — the mechanics build tests
+   ONLY fun ("interaction, nothing else"); the visual mockup
+   tests ONLY demand. One artefact never muddles two
+   questions. (Our own one-question discipline, mirrored.)
+3. Revisable public doctrine — he retires his own earlier
+   mechanics-first advice on camera and replaces it with a
+   framework.
+IMPORTANT BOUNDARY on the feel law: Code Monkey's court of
+appeal for IDEAS is not feel — it is strangers' observed
+behaviour (clips, wishlists). The feel-forward makers were
+judging CRAFT IN PROGRESS; he is judging WHETHER TO BUILD AT
+ALL. Both are evidence disciplines at different stages:
+behaviour gates the start, feel gates the finish. The
+aggregate should state the law with that boundary, not as a
+blanket.
