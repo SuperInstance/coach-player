@@ -1,0 +1,5 @@
+name: "coach_player_jev_shader"
+title: "Jev Shader"
+description: "Estimates where a creator or an avatar sits on a question, as a percentage with evidence, Jev style."
+category: "Work and knowledge"
+include_in_prompt: false

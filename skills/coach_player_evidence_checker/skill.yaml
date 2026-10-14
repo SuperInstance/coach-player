@@ -1,0 +1,5 @@
+name: "coach_player_evidence_checker"
+title: "Evidence Checker"
+description: "Cold checks codex claims, roster facts and shadings against their sources before anyone relies on them."
+category: "Work and knowledge"
+include_in_prompt: false

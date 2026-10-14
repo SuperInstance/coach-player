@@ -1,0 +1,5 @@
+name: "coach_player_roster_curator"
+title: "Roster Curator"
+description: "Adds or retires a creator on the Coach Player codex roster with verified channel data and one clear archetype."
+category: "Work and knowledge"
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: "coach_player_tastemaker"
+title: "Tastemaker"
+description: "Applies recorded taste deviations to a frozen Professional Template so the character gains an identity with an edge."
+category: "Work and knowledge"
+include_in_prompt: false

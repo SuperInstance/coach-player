@@ -1,0 +1,5 @@
+name: "coach_player_question_miner"
+title: "Question Miner"
+description: "Mines new spectrum questions about how great game show creators work, from transcripts, segments or a roster gap."
+category: "Work and knowledge"
+include_in_prompt: false

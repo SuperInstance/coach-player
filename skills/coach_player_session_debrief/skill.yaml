@@ -1,0 +1,5 @@
+name: "coach_player_session_debrief"
+title: "Session Debrief and Sheet Diffs"
+description: "Turns a played session into proposed character changes that the owner rules on, one by one."
+category: "Work and knowledge"
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: "coach_player_character_iterator"
+title: "Character Iterator"
+description: "Runs the Coach Player iterator to grow or update an avatar answer set from the question database."
+category: "Work and knowledge"
+include_in_prompt: false

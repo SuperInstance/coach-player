@@ -1,0 +1,5 @@
+name: "coach_player_codex_sampler"
+title: "Codex Sampler"
+description: "Turns one creator video into timestamped codex evidence entries that tag the trigger, the move and the timing."
+category: "Work and knowledge"
+include_in_prompt: false

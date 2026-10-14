@@ -1,0 +1,5 @@
+name: "coach_player_coach_nudge"
+title: "Coach Nudge Translator"
+description: "Translates a coach order in plain words into visible dial and question changes on the avatar."
+category: "Work and knowledge"
+include_in_prompt: false
