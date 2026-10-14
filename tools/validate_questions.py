@@ -18,7 +18,7 @@ REQUIRED = {
     "evidence_needed": str,
 }
 SPREADS = {"narrow", "medium", "wide"}
-MODES = {"show", "coach", "both"}
+MODES = {"show", "coach", "both", "maker"}
 
 
 def main() -> int:

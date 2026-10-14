@@ -31,6 +31,7 @@ MODE_BIAS = {
     "show": {"premise": 8, "escalation": 10, "spectacle": 12, "show-structure": 6},
     "coach": {"commentary-timing": 6, "coach-relationship": 8, "risk": -6},
     "both": {},
+    "maker": {"visual": 6},
 }
 
 
@@ -42,7 +43,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--db", default=str(Path(__file__).parent.parent / "questions" / "questions.jsonl"))
     ap.add_argument("--seed", type=int, default=1)
-    ap.add_argument("--mode", choices=["show", "coach", "both"], default="both")
+    ap.add_argument("--mode", choices=["show", "coach", "both", "maker"], default="both")
     ap.add_argument("--name", default="UNNAMED")
     ap.add_argument("--nudge", action="append", default=[], help="dial-or-category:+points")
     ap.add_argument("--out", default=None)
