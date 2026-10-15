@@ -110,6 +110,7 @@ docs/
   ITERATOR.md           How the character iterator answers the database.
   MAKER-LANE.md         The game-making/design lane doctrine.
   DESIGN-COMPARISON.md  The two blind V1 designs, the synthesis, M0/M1/M2, the five open rulings.
+  OVERSEER-NUMBERS.md / TILE-CONTRACT.md  Every overseer value in one provenanced sheet; the tile interface as a checklist.
   design-lanes/         The two raw V1 design submissions (minimax, claude), filed verbatim.
 codex/
   README.md             The codex entry schema.

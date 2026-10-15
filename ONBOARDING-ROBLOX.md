@@ -108,6 +108,8 @@ a good option. A dead-band judge (one that always answers ~50%) must not be
 able to livelock the system: count consecutive holds and force an exit
 (run the most-proven tile, or escalate to the author).
 
+The exact values behind this section live in `docs/OVERSEER-NUMBERS.md` (every overseer threshold, budget and price, with provenance), and the tile interface as an engine-neutral checklist in `docs/TILE-CONTRACT.md`.
+
 ### Personality comes from questions, not imitation
 
 `questions/questions.jsonl` in this repo holds **271 questions**. Each names
