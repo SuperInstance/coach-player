@@ -1,5 +1,14 @@
 # The Maker Lane — game-making and game-design creators (PROPOSED)
 
+> **STATUS — 2026-10-14 (read this first):** Maker wave 1 is COMPLETE —
+> Juniper Dev, CodyCantEatThis, Goodgis, Jack Sather, Code Monkey and
+> Indie Game Clinic sampled via the signed-in browser route (the
+> TranscriptAPI plan is exhausted, but the browser route works; method
+> per entry). Results: `codex/entries/AGGREGATE-maker-v0.md`. Any
+> "blocked / unsampled / UNVERIFIED" note below for those six is
+> historical. Wave 2 (second videos + the rest of this roster) is an
+> open lane — see CLAIMS.md.
+
 Named by Casey 2026-10-14. A third perspective for the question
 graph: the player lanes ask how a game is *performed*; this lane
 asks how a game is *made* — what its systems want, where the fun is
